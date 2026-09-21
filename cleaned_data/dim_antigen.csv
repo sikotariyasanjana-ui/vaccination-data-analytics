@@ -1,0 +1,152 @@
+ANTIGEN_CODE,DESCRIPTION
+15HPV1_F,"HPV Vaccination coverage by age 15, first dose, females"
+15HPV1_M,"HPV Vaccination coverage by age 15, first dose, males"
+15HPVC_F,"HPV Vaccination coverage by age 15, last dose, females"
+15HPVC_M,"HPV Vaccination coverage by age 15, last dose, males"
+ANTHRAX,Anthrax vaccine
+AP,aP (acellular pertussis) vaccine
+BCG,BCG
+CCHF,CCHF (Crimean-Congo Hemorrhagic Fever) vaccine
+CHOLERA,Cholera vaccine
+DENGUE,Dengue vaccine
+DIP,"Diphtheria vaccine, children's dose"
+DIPHCV4,"Diphtheria-containing vaccine, 4th dose (1st booster)"
+DIPHCV5,"Diphtheria-containing vaccine, 5th dose (2nd booster)"
+DIPHCV6,"Diphtheria-containing vaccine, 6th dose (3rd booster)"
+DT,"DT (Tetanus toxoid and diphtheria, children's dose) vaccine"
+DTAP,DTaP (acellular) vaccine
+DTAPHEPBIPV,DTaP-HepB-IPV (acellular) vaccine
+DTAPHIB,DTaP-Hib (acellular) vaccine
+DTAPHIBHEPB,DTaP-Hib-HepB (acellular) vaccine
+DTAPHIBHEPBIPV,DTaP-Hib-HepB-IPV (acellular) vaccine
+DTAPHIBIPV,DTaP-Hib-IPV (acellular) vaccine
+DTAPIPV,DTaP-IPV (acellular) vaccine
+DTIPV,DT-IPV (Diphtheria and tetanus toxoid and IPV) vaccine
+DTPCV1,"DTP-containing vaccine, 1st dose"
+DTPCV3,"DTP-containing vaccine, 3rd dose"
+DTWP,DTwP (Whole cell) vaccine
+DTWPHEPB,DTwP-HepB (Whole cell) vaccine
+DTWPHIB,DTwP-Hib (Whole cell) vaccine
+DTWPHIBHEPB,DTwP-Hib-HepB (Whole cell) vaccine
+DTWPHIBHEPBIPV,DTwP-Hib-HepB-IPV (Whole cell) vaccine
+D_S,Diphtheria vaccine for older children and adults
+EBOLA,Ebola vaccine
+FLU_ALL,Influenza all persons above >6 months (universal recommendation)
+FLU_CHILD1,Influenza child age group 1
+FLU_CHILD2,Influenza child age group 2
+FLU_CHRONIC_ADULT,Influenza chronic adult
+FLU_CHRONIC_ALL,Influenza chronic children and adults
+FLU_CHRONIC_PED,Influenza chronic pediatric
+FLU_ELDERLY,Influenza older persons
+FLU_HAJ,Influenza travellers (incl. Hajj pilgrimage)
+FLU_HCW,Influenza health care workers
+FLU_OTHER,Influenza other
+FLU_PW,Influenza pregnant women
+FLU_RESIDENT,Influenza residents living in long term care facilities
+HEPA_ADULT,Adult Hepatitis A vaccine
+HEPA_HEPB,"Hepatitis A, Hepatitis B vaccine"
+HEPA_INACTD,Hepatitis A inactivted
+HEPA_LIVEATD,Hepatitis A live attenuated
+HEPA_PEDIATRIC,Pediatric Hepatitis A vaccine
+HEPB3,"HepB, 3rd dose"
+HEPB_ADULT,Adult Hepatitis B vaccine
+HEPB_BD,"HepB, birth dose (given within 24 hours of birth)"
+HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)"
+HEPB_PEDIATRIC,Pediatric Hepatitis B vaccine
+HFRS,Hemorrhagic fever with renal syndrome vaccine
+HIB,Hib (Haemophilus influenzae type B) vaccine
+HIB3,"Hib, 3rd dose"
+HIB_MEN_C_CONJ,"Hib (Haemophilus influenzae type B), Meningococcal C conjugate vaccine"
+HPV,HPV (Human Papilloma Virus) vaccine
+HPV2,HPV-2 (Human Papilloma Virus 2-valent) vaccine
+HPV4,HPV-4 (Human Papilloma Virus 4-valent) vaccine
+HPV9,HPV-9 (Human Papilloma Virus 9-valent) vaccine
+HPV_FEM,"HPV Female, final dose"
+HPV_MALE,"HPV Male, final dose"
+INFLUENZA_ADULT,Adult seasonal influenza vaccine
+INFLUENZA_PEDIATRIC,Pediatric seasonal influenza vaccine
+IPV,IPV (Inactivated polio vaccine)
+IPV1,"Inactivated polio-containing vaccine, 1st dose"
+IPV1_FRAC,"Fractional inactivated polio-containing vaccine, 1st dose"
+IPV2,"Inactivated polio-containing vaccine, 2nd dose"
+IPV2_FRAC,"Fractional inactivated polio-containing vaccine, 2nd dose"
+IPV_FRAC,IPVf (Inactivated polio vaccine fractional dose)
+JAPENC,Japanese encephalitis
+JAPENC_1,"Japanese encephalitis vaccine, 1st dose"
+JAPENC_C,"Japanese encephalitis vaccine, last dose"
+JE_INACTD,JE-Inact (Japanese Encephalitis inactivated) vaccine
+JE_LIVEATD,JE-Livatd (Japanese Encephalitis live-attenuated) vaccine
+LEPTOSPIROSIS,Leptospirosis
+MALARIA1,"Malaria vaccine, 1st dose"
+MALARIA3,"Malaria vaccine, 3rd dose"
+MALARIA4,"Malaria vaccine, 4th dose"
+MCV1,"Measles-containing vaccine, 1st dose"
+MCV2,"Measles-containing vaccine, 2nd dose"
+MCV2X2,Measles-containing vaccine 2nd dose by 2 years of age
+MEASLES,Measles vaccine
+MENACYW_C,"Meningococcal ACYW conjugate vaccine, last dose"
+MENA_C,"Meningococcal A conjugate vaccine, last dose"
+MENB_C,"Meningococcal B vaccine, last dose"
+MEN_ACYW_135CONJ,Meningococcal ACYW conjugate vaccine
+MEN_ACYW_135PS,Meningococcal ACYW polysaccharide vaccine
+MEN_ACYW_CONJ,Meningococcal ACYW conjugate vaccine
+MEN_AC_CONJ,Meningococcal AC conjugate vaccine
+MEN_AC_PS,Meningococcal AC polysaccharide vaccine
+MEN_A_CONJ,Meningococcal A conjugate vaccine
+MEN_A_PS,Meningococcal A polysaccharide vaccine
+MEN_B,Meningococcal B vaccine
+MEN_BC,Meningococcal BC vaccine
+MEN_C_CONJ,Meningococcal C conjugate vaccine
+MM,MM (Measles and mumps) vaccine
+MMR,"MMR (Measles, mumps and rubella) vaccine"
+MMRV,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+MPOX,Mpox (monkeypox) vaccine
+MR,MR (Measles and rubella) vaccine
+MUMPS,Mumps vaccine
+OPV,OPV (Oral polio vaccine)
+PAB,Protection at birth (PAB) against neonatal tetanus
+PCV1,"Pneumococcal conjugate vaccine, 1st dose"
+PCV10,PCV-10 (Pneumococcal conjugate vaccine 10-valent) vaccine
+PCV13,PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine
+PCV2,"Pneumococcal conjugate vaccine, 2nd dose"
+PCV20,PCV-20 (Pneumococcal conjugate vaccine 20-valent) vaccine
+PCV3,"Pneumococcal conjugate vaccine, final dose"
+PCV_15_VALENT,PCV-15 (Pneumococcal conjugate vaccine 15-valent) vaccine
+PERCV4,"Pertussis-containing vaccine, 4th dose (1st booster)"
+PERCV_PW,"Pertussis-containing vaccine, pregnant women"
+POL3,"Polio, 3rd dose"
+PPV23,PPV-23 (Pneumococcal polysaccharide 23 valent) vaccine
+PRHPV1_F,"HPV Vaccination program coverage, first dose, females"
+PRHPV1_M,"HPV Vaccination program coverage, first dose, males"
+PRHPVC_F,"HPV Vaccination program coverage, last dose, females"
+PRHPVC_M,"HPV Vaccination program coverage, last dose, males"
+RABIES,Rabies vaccine
+RCV1,"Rubella-containing vaccine, 1st dose"
+ROTA1,"Rotavirus, 1st dose"
+ROTAC,"Rotavirus, last dose"
+ROTAVIRUS_1,RV-1 (Rotavirus 1-valent) vaccine
+ROTAVIRUS_5,RV-5 (Rotavirus 5-valent) vaccine
+RTS_S,Malaria vaccine
+RUBELLA,Rubella vaccine
+TBE_ADULT,Adult TBE (tick borne encephalitis) vaccine
+TBE_PEDIATRIC,Pediatric TBE (tick borne encephalitis) vaccine
+TDAP_S,"Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine"
+TDAP_S_IPV,"Tdap-IPV (Tetanus, diphtheria for older children and adults, acellular pertussis and IPV) vaccine"
+TDIPV_S,"Td-IPV (Tetanus, diphtheria for older children and adults and IPV) vaccine"
+TD_S,Td (Tetanus toxoid and diphtheria for older children and adults) vaccine
+TT,TT (Tetanus toxoid) vaccine
+TT2PLUS,"Tetanus toxoid-containing vaccine, 2nd and subsequent doses"
+TTCV4,"Tetanus-containing vaccine, 4th dose (1st booster)"
+TTCV5,"Tetanus-containing vaccine, 5th dose (2nd booster)"
+TTCV6,"Tetanus-containing vaccine, 6th dose (3rd booster)"
+TULAREMIA,Tularemia vaccine
+TYPHOID,Typhoid
+TYPHOIDHEPA,Typhoid and Hepatitis A
+TYPHOID_CONJ,Typhoid conjugate vaccine
+TYPHOID_PS,Typhoid polysaccharide vaccine
+VAD1,"Vitamin A, 1st dose"
+VARICELLA,Varicella vaccine
+VITAMINA,Vitamin A supplements
+YF,YF (Yellow fever) vaccine
+YFV,Yellow fever vaccine
+ZOSTER,Shingles (Herpes zoster for older adults) vaccine
